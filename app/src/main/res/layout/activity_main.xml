@@ -16,12 +16,12 @@
 
     <EditText
         android:id="@+id/edit_1"
-        android:layout_width="100dp"
+        android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:hint="정수로 입력"/>
     <EditText
         android:id="@+id/edit_2"
-        android:layout_width="100dp"
+        android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:hint="정수로 입력" />
 
